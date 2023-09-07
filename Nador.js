@@ -1,5 +1,1 @@
-const racRate = 0.5;
-
-
-
-alert("test")
+I am just testing 
